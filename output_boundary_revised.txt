@@ -1,0 +1,7 @@
+
+testAdminUserNameLength=true
+testUserNameLength=true
+testUserFirstNameLength=true
+testUserLastNameLength=true
+testUserPasswordLength=true
+testAdminPasswordLength=true

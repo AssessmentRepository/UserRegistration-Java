@@ -1,0 +1,2 @@
+testForUserRegistration=false
+testForUserLogin=false
